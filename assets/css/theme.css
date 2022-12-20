@@ -785,6 +785,10 @@ cards-block
 	line-height: 1.25;
 	font-family: 'Teko', Helvetica, sans-serif;
 	margin-bottom: 20px;
+	/* Custom styles */
+	background: #f14201;
+	padding: 5px;
+	width: fit-content;
 }
 
 .cards-block__text {
